@@ -19,7 +19,9 @@ import javax.servlet.http.HttpSession;
 import javax.validation.Valid;
 import java.util.List;
 
-
+/**
+ * 测试
+ */
 @Controller
 @RequestMapping("/goods")
 public class GoodsController {
